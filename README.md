@@ -1,4 +1,6 @@
 # Amazon-Lex-Bot Using AWS Lambda 
+This chatbot is used to get the course enquiry details from students in coaching centres,support forumns for ecommerce etc;
+
 This code helps to connect the facebook via Amazon lex bot
 
 Unzip the ngrok.zip file as I zip the file ngrok.exe due to space constraints
